@@ -1,0 +1,46 @@
+<schiffe.Model.ZelleSpec-stats timestamp="1354033272645"><stats expectations="2" examples="2" successes="2" time="44"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033280250"><stats expectations="2" examples="2" successes="2" time="43"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033377902"><stats expectations="4" examples="4" successes="4" time="46"><trend><stats expectations="2" examples="2" successes="2" time="46"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033384072"><stats expectations="4" examples="4" successes="4" time="32"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033520826"><stats expectations="6" examples="6" successes="6" time="46"><trend><stats expectations="2" examples="2" successes="2" time="46"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-results timestamp="1354033526924"><result location="schiffe.Model.ZelleSpec (ZelleSpec.scala:13)" id="-1662716686"><stats expectations="1" examples="1" failures="1" time="46"></stats></result>
+<result location="schiffe.Model.ZelleSpec (ZelleSpec.scala:17)" id="-1662727133"><stats expectations="1" examples="1" failures="1" time="44"></stats></result>
+</schiffe.Model.ZelleSpec-results>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033526963"><stats expectations="6" successes="4" examples="6" failures="2" time="35"><trend><stats failures="2" successes="-2" time="35"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-results timestamp="1354033545508"><result location="schiffe.Model.ZelleSpec (ZelleSpec.scala:17)" id="-1662727133"><stats expectations="1" examples="1" failures="1" time="80"></stats></result>
+</schiffe.Model.ZelleSpec-results>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033545565"><stats expectations="6" successes="5" examples="6" failures="1" time="69"><trend><stats failures="-1" successes="1" time="69"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033556106"><stats expectations="6" examples="6" successes="6" time="46"><trend><stats failures="-1" successes="1" time="46"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033563249"><stats expectations="6" examples="6" successes="6" time="68"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033586994"><stats expectations="6" examples="6" successes="6" time="5"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-results timestamp="1354033725240"><result location="schiffe.Model.ZelleSpec (ZelleSpec.scala:17)" id="-1662727133"><stats expectations="1" examples="1" failures="1" time="11"></stats></result>
+</schiffe.Model.ZelleSpec-results>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033725257"><stats expectations="6" successes="5" examples="6" failures="1" time="3"><trend><stats failures="1" successes="-1" time="3"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033743288"><stats expectations="6" examples="6" successes="6" time="7"><trend><stats failures="-1" successes="1" time="7"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354033753265"><stats expectations="6" examples="6" successes="6" time="5"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354040593767"><stats expectations="6" examples="6" successes="6" time="4"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354040607796"><stats expectations="6" examples="6" successes="6" time="3"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354041993226"><stats expectations="6" examples="6" successes="6" time="8"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-results timestamp="1354044847470"><result location="schiffe.Model.ZelleSpec (ZelleSpec.scala:13)" id="-1662716686"><stats expectations="1" examples="1" failures="1" time="67"></stats></result>
+</schiffe.Model.ZelleSpec-results>
+<schiffe.Model.ZelleSpec-stats timestamp="1354044847584"><stats expectations="6" successes="5" examples="6" failures="1" time="55"><trend><stats failures="1" successes="-1" time="55"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354044869808"><stats expectations="6" examples="6" successes="6" time="43"><trend><stats failures="-1" successes="1" time="43"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-results timestamp="1354044875259"><result location="schiffe.Model.ZelleSpec (ZelleSpec.scala:17)" id="-1662727133"><stats expectations="1" examples="1" failures="1" time="60"></stats></result>
+</schiffe.Model.ZelleSpec-results>
+<schiffe.Model.ZelleSpec-stats timestamp="1354044875363"><stats expectations="6" successes="5" examples="6" failures="1" time="49"><trend><stats failures="1" successes="-1" time="49"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354044882564"><stats expectations="6" examples="6" successes="6" time="57"><trend><stats failures="-1" successes="1" time="57"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-results timestamp="1354044887880"><result location="schiffe.Model.ZelleSpec (ZelleSpec.scala:13)" id="-1662716686"><stats expectations="1" examples="1" failures="1" time="74"></stats></result>
+</schiffe.Model.ZelleSpec-results>
+<schiffe.Model.ZelleSpec-stats timestamp="1354044888019"><stats expectations="6" successes="5" examples="6" failures="1" time="44"><trend><stats failures="1" successes="-1" time="44"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354044892866"><stats expectations="6" examples="6" successes="6" time="58"><trend><stats failures="-1" successes="1" time="58"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-results timestamp="1354044898792"><result location="schiffe.Model.ZelleSpec (ZelleSpec.scala:17)" id="-1662727133"><stats expectations="1" examples="1" failures="1" time="60"></stats></result>
+</schiffe.Model.ZelleSpec-results>
+<schiffe.Model.ZelleSpec-stats timestamp="1354044898933"><stats expectations="6" successes="5" examples="6" failures="1" time="48"><trend><stats failures="1" successes="-1" time="48"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354044906210"><stats expectations="6" examples="6" successes="6" time="44"><trend><stats failures="-1" successes="1" time="44"></stats></trend></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354051804072"><stats expectations="6" examples="6" successes="6" time="1"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354051824844"><stats expectations="6" examples="6" successes="6" time="1"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354051932298"><stats expectations="6" examples="6" successes="6" time="1"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354051963116"><stats expectations="6" examples="6" successes="6" time="1"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354052020232"><stats expectations="6" examples="6" successes="6" time="2"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354052025514"><stats expectations="6" examples="6" successes="6" time="1"></stats></schiffe.Model.ZelleSpec-stats>
+<schiffe.Model.ZelleSpec-stats timestamp="1354052345643"><stats expectations="6" examples="6" successes="6" time="2"></stats></schiffe.Model.ZelleSpec-stats>

@@ -1,0 +1,135 @@
+<schiffe.Model.FeldSpec-stats timestamp="1354010012905"><stats expectations="1" examples="1" successes="1" time="78"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354010041289"><stats expectations="1" examples="1" successes="1" time="15"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354010279413"><stats expectations="1" examples="1" successes="1" time="15"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354010282440"><stats expectations="1" examples="1" successes="1" time="18"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354010386958"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:15)" id="2093292998"><stats expectations="1" examples="1" errors="1" time="292"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354010386971"><stats expectations="2" successes="1" examples="2" errors="1" time="18"><trend><stats expectations="1" examples="1" errors="1" time="18"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354010420294"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:15)" id="2093292998"><stats expectations="1" examples="1" errors="1" time="9"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354010420311"><stats expectations="2" successes="1" examples="2" errors="1" time="22"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354010483836"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:15)" id="2093292998"><stats expectations="1" examples="1" errors="1" time="8"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354010483857"><stats expectations="2" successes="1" examples="2" errors="1" time="17"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354010658832"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:15)" id="2093292998"><stats expectations="1" examples="1" errors="1" time="16"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354010658856"><stats expectations="2" successes="1" examples="2" errors="1" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354010669336"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:15)" id="2093292998"><stats expectations="1" examples="1" errors="1" time="8"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354010669363"><stats expectations="2" successes="1" examples="2" errors="1" time="17"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354010860888"><stats expectations="2" examples="2" successes="2" time="16"><trend><stats errors="-1" successes="1" time="16"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354010886659"><stats expectations="2" examples="2" successes="2" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354011150455"><stats expectations="3" examples="3" successes="3" time="16"><trend><stats expectations="1" examples="1" successes="1" time="16"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354011162959"><stats expectations="3" examples="3" successes="3" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354011342426"><stats expectations="3" examples="3" successes="3" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354011345539"><stats expectations="3" examples="3" successes="3" time="15"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354011457153"><stats expectations="4" examples="4" successes="4" time="16"><trend><stats expectations="1" examples="1" successes="1" time="16"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354011460321"><stats expectations="4" examples="4" successes="4" time="15"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354011544257"><stats expectations="4" examples="4" successes="4" time="18"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354011547043"><stats expectations="4" examples="4" successes="4" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354011897695"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:36)" id="1070353047"><stats expectations="1" examples="1" failures="1" time="20"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:42)" id="-563146439"><stats expectations="1" examples="1" failures="1" time="32"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354011897741"><stats expectations="7" successes="5" examples="7" failures="2" time="39"><trend><stats expectations="3" successes="1" examples="3" failures="2" time="39"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354011936247"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:42)" id="-563146439"><stats expectations="1" examples="1" failures="1" time="19"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354011936298"><stats expectations="7" successes="6" examples="7" failures="1" time="18"><trend><stats failures="-1" successes="1" time="18"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354011976608"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:36)" id="1191551121"><stats expectations="1" examples="1" failures="1" time="11"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:42)" id="-563146439"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354011976660"><stats expectations="7" successes="5" examples="7" failures="2" time="16"><trend><stats failures="1" successes="-1" time="16"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354012017247"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:36)" id="1191551121"><stats expectations="1" examples="1" failures="1" time="25"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:42)" id="-563146439"><stats expectations="1" examples="1" failures="1" time="8"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354012017299"><stats expectations="7" successes="5" examples="7" failures="2" time="17"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354012221573"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:42)" id="-563146439"><stats expectations="1" examples="1" failures="1" time="23"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354012221624"><stats expectations="7" successes="6" examples="7" failures="1" time="18"><trend><stats failures="-1" successes="1" time="18"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354012312489"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:36)" id="1191551121"><stats expectations="1" examples="1" failures="1" time="23"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354012312540"><stats expectations="7" successes="6" examples="7" failures="1" time="18"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354012329489"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:36)" id="1191551121"><stats expectations="1" examples="1" failures="1" time="29"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:42)" id="-563146439"><stats expectations="1" examples="1" failures="1" time="19"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354012329542"><stats expectations="7" successes="5" examples="7" failures="2" time="17"><trend><stats failures="1" successes="-1" time="17"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354012488159"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:36)" id="1191551121"><stats expectations="1" examples="1" failures="1" time="23"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:42)" id="-563146439"><stats expectations="1" examples="1" failures="1" time="23"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354012488228"><stats expectations="7" successes="5" examples="7" failures="2" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354012503957"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:36)" id="1191551121"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:42)" id="-563146439"><stats expectations="1" examples="1" failures="1" time="24"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354012504014"><stats expectations="7" successes="5" examples="7" failures="2" time="17"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354012630835"><stats expectations="7" examples="7" successes="7" time="16"><trend><stats failures="-2" successes="2" time="16"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354012638265"><stats expectations="7" examples="7" successes="7" time="18"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354012642193"><stats expectations="7" examples="7" successes="7" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354012763236"><stats expectations="8" examples="8" successes="8" time="16"><trend><stats expectations="1" examples="1" successes="1" time="16"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354012843147"><stats expectations="10" examples="10" successes="10" time="17"><trend><stats expectations="2" examples="2" successes="2" time="17"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354012848261"><stats expectations="10" examples="10" successes="10" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354012913287"><stats expectations="10" examples="10" successes="10" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354012921648"><stats expectations="10" examples="10" successes="10" time="26"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354013336367"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:75)" id="-1527994118"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354013336406"><stats expectations="11" successes="10" examples="11" failures="1" time="19"><trend><stats expectations="1" examples="1" failures="1" time="19"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354013380289"><stats expectations="11" examples="11" successes="11" time="18"><trend><stats failures="-1" successes="1" time="18"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354013390215"><stats expectations="11" examples="11" successes="11" time="16"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354025603997"><stats expectations="11" examples="11" successes="11" time="48"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354025613737"><stats expectations="11" examples="11" successes="11" time="40"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354025786034"><stats expectations="12" examples="12" successes="12" time="72"><trend><stats expectations="1" examples="1" successes="1" time="72"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354025791738"><stats expectations="12" examples="12" successes="12" time="48"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354031617356"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:87)" id="-44412122"><stats expectations="1" examples="1" failures="1" time="23"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354031617440"><stats expectations="13" successes="12" examples="13" failures="1" time="125"><trend><stats expectations="1" examples="1" failures="1" time="125"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354031644471"><stats expectations="13" examples="13" successes="13" time="48"><trend><stats failures="-1" successes="1" time="48"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354031653643"><stats expectations="13" examples="13" successes="13" time="46"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354031746885"><stats expectations="13" examples="13" successes="13" time="54"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354031755884"><stats expectations="13" examples="13" successes="13" time="45"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354031914442"><stats expectations="14" examples="14" successes="14" time="52"><trend><stats expectations="1" examples="1" successes="1" time="52"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354031921607"><stats expectations="14" examples="14" successes="14" time="47"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354032216691"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:106)" id="1625259934"><stats expectations="1" examples="1" failures="1" time="46"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354032216780"><stats expectations="15" successes="14" examples="15" failures="1" time="45"><trend><stats expectations="1" examples="1" failures="1" time="45"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354032244559"><stats expectations="15" examples="15" successes="15" time="45"><trend><stats failures="-1" successes="1" time="45"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354032256286"><stats expectations="15" examples="15" successes="15" time="48"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354032339990"><stats expectations="16" examples="16" successes="16" time="29"><trend><stats expectations="1" examples="1" successes="1" time="29"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354032348817"><stats expectations="16" examples="16" successes="16" time="48"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354032412957"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:125)" id="1229907853"><stats expectations="1" examples="1" failures="1" time="19"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354032413052"><stats expectations="17" successes="16" examples="17" failures="1" time="50"><trend><stats expectations="1" examples="1" failures="1" time="50"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354032459381"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:125)" id="1229907853"><stats expectations="1" examples="1" failures="1" time="14"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354032459480"><stats expectations="17" successes="16" examples="17" failures="1" time="87"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354032483838"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:125)" id="1229907853"><stats expectations="1" examples="1" failures="1" time="18"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354032483935"><stats expectations="17" successes="16" examples="17" failures="1" time="81"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354032526803"><stats expectations="17" examples="17" successes="17" time="50"><trend><stats failures="-1" successes="1" time="50"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354032534404"><stats expectations="17" examples="17" successes="17" time="51"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354033586896"><stats expectations="17" examples="17" successes="17" time="5"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354033725108"><stats expectations="17" examples="17" successes="17" time="5"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354033743186"><stats expectations="17" examples="17" successes="17" time="4"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354033753162"><stats expectations="17" examples="17" successes="17" time="5"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354040593686"><stats expectations="17" examples="17" successes="17" time="5"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354040607687"><stats expectations="17" examples="17" successes="17" time="5"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354041993154"><stats expectations="17" examples="17" successes="17" time="4"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354051804034"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:20)" id="344300112"><stats expectations="1" examples="1" failures="1" time="8"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:81)" id="-1527994118"><stats expectations="1" examples="1" failures="1" time="7"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:87)" id="-44412122"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:96)" id="2100161294"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:106)" id="1625259934"><stats expectations="1" examples="1" failures="1" time="4"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:115)" id="-2020404997"><stats expectations="1" examples="1" failures="1" time="4"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:125)" id="1229907853"><stats expectations="1" examples="1" failures="1" time="3"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354051804048"><stats expectations="17" successes="10" examples="17" failures="7" time="7"><trend><stats failures="7" successes="-7" time="7"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-results timestamp="1354051824805"><result location="schiffe.Model.FeldSpec (FeldSpec.scala:81)" id="-1527994118"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:87)" id="-44412122"><stats expectations="1" examples="1" failures="1" time="7"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:96)" id="2100161294"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:106)" id="1625259934"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:115)" id="-2020404997"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+<result location="schiffe.Model.FeldSpec (FeldSpec.scala:125)" id="1229907853"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+</schiffe.Model.FeldSpec-results>
+<schiffe.Model.FeldSpec-stats timestamp="1354051824819"><stats expectations="17" successes="11" examples="17" failures="6" time="7"><trend><stats failures="-1" successes="1" time="7"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354051932272"><stats expectations="17" examples="17" successes="17" time="4"><trend><stats failures="-6" successes="6" time="4"></stats></trend></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354051963091"><stats expectations="17" examples="17" successes="17" time="7"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354052020207"><stats expectations="17" examples="17" successes="17" time="1"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354052025488"><stats expectations="17" examples="17" successes="17" time="2"></stats></schiffe.Model.FeldSpec-stats>
+<schiffe.Model.FeldSpec-stats timestamp="1354052345618"><stats expectations="17" examples="17" successes="17" time="7"></stats></schiffe.Model.FeldSpec-stats>
